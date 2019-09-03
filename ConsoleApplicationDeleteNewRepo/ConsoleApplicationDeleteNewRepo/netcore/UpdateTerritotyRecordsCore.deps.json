@@ -1,0 +1,38 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "b317ee8a1b2c6d9757abc1174f7bdcbb46ff5782"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "UpdateTerritotyRecordsCore/1.0.0": {
+        "dependencies": {
+          "TextFieldParserCore": "1.0.0"
+        },
+        "runtime": {
+          "UpdateTerritotyRecordsCore.dll": {}
+        }
+      },
+      "TextFieldParserCore/1.0.0": {
+        "runtime": {
+          "lib/netcoreapp1.0/TextFieldParserCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UpdateTerritotyRecordsCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TextFieldParserCore/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+mxmXKacJ5q39XMOTrV4w04zeu529GZq0v6NtaZIvLOCg1oUHKqIbLcD+ZKS1mL0gz1vPqX/YQr+SPDrmzjgzw==",
+      "path": "textfieldparsercore/1.0.0",
+      "hashPath": "textfieldparsercore.1.0.0.nupkg.sha512"
+    }
+  }
+}
